@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @resgigi
-- 👀 I’m interested in Flutter/iOS/AI
-- 🌱 I’m currently learning Flutter/iOS
-- 💞️ I’m looking to collaborate on iOS
 - 📫 How to reach me resgigi99@gmail.com
 
 <!---
